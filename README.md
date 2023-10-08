@@ -6,6 +6,6 @@ Here is the repo for an app that I developed for the Congressional App Challenge
 Here is a link to the official congressional app challenge website!
 https://www.congressionalappchallenge.us/2022-winners/#NewJersey 
 
-#
+# Click on the video below to watch our Foodrop Pitch
 [![Congressional App Challenge pitch link](https://img.youtube.com/vi/AwijZDg6-XY/0.jpg)](https://youtu.be/AwijZDg6-XY))
 
